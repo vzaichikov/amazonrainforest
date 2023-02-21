@@ -1,5 +1,5 @@
 {
-  "name": "vzaichikov/amazon-rainforest",
+  "name": "vzaichikov/amazonrainforest",
   "type": "library",
   "license": "MIT",
   "description": "Simplified access the Amazon Rainforest API",
